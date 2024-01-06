@@ -7,6 +7,7 @@ from Naive_Bayes import NaiveBayes
 def accuracy(y_true, y_pred):
     """
     Calculates the accuracy of predictions against the true labels.
+    
     Parameters:
     y_true (numpy.ndarray): True labels.
     y_pred (numpy.ndarray): Predicted labels.
