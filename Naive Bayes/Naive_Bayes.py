@@ -39,6 +39,7 @@ class NaiveBayes:
         denominator = np.sqrt(2 * np.pi * var)
         return numerator / denominator
 
+
 # Example usage:
 # nb = NaiveBayes()
 # nb.fit(X_train, y_train)
