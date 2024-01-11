@@ -6,6 +6,7 @@ Implement the most common algorithms in ML from scratch, to get an intuition of 
 * [K_nearest_neighbors (KNN)](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/KNN)
 * [Logistic_and_Linear_Regression](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Logistic_and_Linear_Regression)
 * [Naive Bayes](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Naive%20Bayes)
+* [Perceptron](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Perceptron)
 * Coming soon  **...**
 
 ## Contributing
