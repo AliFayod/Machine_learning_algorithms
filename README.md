@@ -8,6 +8,7 @@ Implement the most common algorithms in ML from scratch, to get an intuition of 
 * [Naive Bayes](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Naive%20Bayes)
 * [Perceptron](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Perceptron)
 * [SVM](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/SVM)
+* [Decision Tree](https://github.com/AliFayod/Machine_learning_algorithms/tree/main/Decision%20Tree)
 * Coming soon  **...**
 
 ## Contributing
