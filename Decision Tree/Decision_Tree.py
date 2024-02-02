@@ -90,7 +90,9 @@ class DecisionTree:
         n_labels = len(np.unique(y))
 
         # Stopping conditions for recursion
-        if depth >= self.max_depth or n_samples < self.min_samples_split:
+        if (depth >= self.max_depth
+                or n_labels == 1
+                or n_samples < self.min_samples_split):
             leaf_value = self._most_common_label(y)
             return Node(value=leaf_value)
 
